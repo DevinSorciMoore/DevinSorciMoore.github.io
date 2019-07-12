@@ -1,0 +1,94 @@
+body {
+  background-color: lightblue;
+}
+
+  p {
+color: #A911B0;
+font-size: 28;
+}
+
+  ol{
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+  }
+  ul{
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+  }
+
+
+  em {
+    text-align: center;
+  }
+  ]
+  h1{
+    color: Orange;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+  }
+
+  h2{
+    color: green;
+    text-align: left;
+  }
+
+  h3{
+    color: yellow;
+    text-align: left;
+    font-size:40;
+  }
+
+form {
+  display: inline;
+  font-size: 1.252em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
+ .info {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.content {
+  flex: 50%;
+  padding: 90px;
+  }
+
+  .shadow {
+    opacity: .8;
+    box-shadow: 5px 10px;
+    }
+  .shadow:hover {
+    opacity:  1;
+    box-shadow: 5px 10px;
+    }
+.container{
+  display: flex;
+  border: 2px solid black;
+  background-color: yellow;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 40px;9}
+  .pics {
+  padding: 90;
+  flex: 70%;
+flex-direction: column-reverse:;
+}
+
+.movement {
+  font weight: Bold;
+  font-size: 28px;
+
+}
+
+.proffesional {
+   flex: 50%;
+  padding-right: 50px;
+
+}

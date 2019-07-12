@@ -1,0 +1,47 @@
+
+  h1{
+  font-size:40px;
+  color: purple;
+  text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
+.Greatness
+  {color: blue;
+  text-align: center;
+  background-color: light blue;
+}
+
+  .image{
+text-align: center
+
+}
+
+  .background{
+  background-color: pink;
+
+}
+html {background-color: #79eded}
+
+
+p.about {
+  text-indent: 50px;
+  text-align: justify;
+
+}
+.body{
+  background-color:#79eded
+}
+nav{
+  text-align: center;
+}
+h2{
+  color: purple;
+  text-align: center right;
+  
+}
+h3{
+  color: magenta;
+}

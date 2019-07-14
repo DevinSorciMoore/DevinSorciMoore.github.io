@@ -1,0 +1,57 @@
+
+
+body{
+  background-color: lightgreen;
+}
+.light {
+height: 75px;
+  width: 75px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 75px 75px
+}
+
+
+#light-design{
+border: 5px solid black;
+width: 20%;
+box-shadow: 75px;
+background-color: darkgray;
+margin:0px auto;
+}
+ #post{
+ height: 200px;
+ width: 30px;
+ border: 5px solid black;
+ margin: 0px auto;
+}
+
+  #red{
+  background-color: indianred;
+
+}
+ #red:hover {
+   background-color: red;
+ }
+ #yellow{
+   background-color: khaki;
+ }
+ #yellow:hover {
+   background-color:yellow
+ }
+  #green{
+    background-color: palegreen;
+  }
+#green:hover{
+  background-color:green
+}
+h1{
+  font-size: 40;
+  text-align: center;
+}
+{
+margin: auto;
+margin-top: 20px
+}

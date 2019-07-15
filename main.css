@@ -1,148 +1,88 @@
-body {
-  background-color: lightblue;
-}
 
-  p {
-color: #A911B0;
-font-size: 28;
-}
-
-  ol{
-    font-size: 28px;
-    color: white;
-    font-weight: bold;
-  }
-  ul{
-    font-size: 28px;
-    color: white;
-    font-weight: bold;
-  }
-
-
-  em {
-    text-align: center;
-  }
-  ]
   h1{
-    color: Orange;
-    text-align: center;
-    font-weight: bold;
-    font-size: 60px;
-  }
+  font-size:40px;
+  color: purple;
+  text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
+.Greatness
+  {color: blue;
+  text-align: center;
+  background-color: light blue;
+}
 
-  h2{
-    color: green;
-    text-align: left;
-  }
+  .image{
+text-align: center
 
-  h3{
-    color: yellow;
-    text-align: left;
-    font-size:40;
-  }
+}
 
-form {
-  display: inline;
-  font-size: 1.252em;
-  font-weight: bold;
-  margin-bottom: 20px;
+  .background{
+  background-color: pink;
+
+}
+html {background-color: #79eded}
+
+
+p.about {
+  text-indent: 50px;
+  text-align: justify;
+
+
+}
+.body{
+  background-color:#79eded
+}
+nav{
+  text-align: center;
+}
+h2{
+  color: purple;
+  text-align: center right;
+
+}
+h3{
+  color: magenta;
 }
 
 
- .info {
-  display: flex;
-}
 
-/* Create two equal columns that sits next to each other */
-.content {
-  flex: 50%;
-  padding: 90px;
+  .kent {
+    color: blue;
+
   }
 
-  .shadow {
-    opacity: .8;
-    box-shadow: 5px 10px;
-    }
-  .shadow:hover {
-    opacity:  1;
-    box-shadow: 5px 10px;
-    }
-.container{
+
+  .container {
   display: flex;
   border: 2px solid black;
   background-color: yellow;
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  font-size: 40px;9}
-  .pics {
-  padding: 90;
-  flex: 70%;
-flex-direction: column-reverse:;
+  font-size: 40px;
 }
 
-.movement {
-  font weight: Bold;
-  font-size: 28px;
+    h1{
+      text-align: center;
+      color: orange;
+      font-size: 38px;
+      font-weight: Bold;
+    }
 
-}
-
-.proffesional {
-   flex: 50%;
-  padding-right: 50px;
-
-}
- #light {
-height: 75px;
-width: 75px;
-border: 2px solid black;
-margin: auto;
-margin-top: 20px;
-margin-bottom: 20px;
-border-radius: 75px 75px;
-}
+    .three {
+      flex-direction: column;
+      background: ;
+    }
 
 
-  .box{
-    flex-direction: row;
-  }
 
-  #light-design{
-    border: 5px solid black;
-width: 80%;
-box-shadow: 75px;
-background-color: yellow;
-margin:0px auto;
-text-align: center;
-
-  }
+        p.project {
+          color: palegreen;
+          font-size: 20px;
+          font-weight: bold;
 
 
-#wave {
- height: 75px;
- width: 75px;
- border: 2px solid black;
- margin: auto;
- margin-top: 20px;
- margin-bottom: 20px;
- border-radius: 75px 75px;
- text-align: left;
-
-}
-
-  #sound{
-   height: 75px;
-   width: 75px;
-   border: 2px solid black;
-   margin: auto;
-   margin-top: 20px;
-   margin-bottom: 20px;
-   border-radius: 75px 75px;
-   text-align: right;
-
-  }
-  .ecoli{
-    border: 2px solid red;
-  border-radius:  15px 50px 30px 5px;
-
-  }
+        }

@@ -74,7 +74,11 @@ form {
   flex-direction: row;
   justify-content: space-between;
   text-align: center;
-  font-size: 40px;9}
+  font-size: 40px;
+}
+
+
+
   .pics {
   padding: 90;
   flex: 70%;
@@ -92,3 +96,57 @@ flex-direction: column-reverse:;
   padding-right: 50px;
 
 }
+ #light {
+height: 75px;
+width: 75px;
+border: 2px solid black;
+margin: auto;
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 75px 75px;
+}
+
+
+  .box{
+    flex-direction: row;
+  }
+
+  #light-design{
+    border: 5px solid black;
+width: 80%;
+box-shadow: 75px;
+background-color: yellow;
+margin:0px auto;
+text-align: center;
+
+  }
+
+
+#wave {
+ height: 75px;
+ width: 75px;
+ border: 2px solid black;
+ margin: auto;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ border-radius: 75px 75px;
+ text-align: left;
+
+}
+
+  #sound{
+   height: 75px;
+   width: 75px;
+   border: 2px solid black;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   border-radius: 75px 75px;
+   text-align: right;
+
+  }
+  .ecoli {
+    border: 2px solid red;
+  border-radius:  15px 50px 30px 5px;
+
+  }

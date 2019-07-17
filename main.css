@@ -1,12 +1,13 @@
 
   h1{
-  font-size:40px;
+  font-size:30px;
   color: purple;
   text-align: center;
 }
 p{
   color: white;
   text-align: center;
+
 }
 .Greatness
   {color: blue;
@@ -27,7 +28,7 @@ html {background-color: #79eded}
 
 
 p.about {
-  text-indent: 50px;
+  text-indent: 24px;
   text-align: justify;
 
 
@@ -68,7 +69,7 @@ h3{
     h1{
       text-align: center;
       color: orange;
-      font-size: 38px;
+      font-size: 18px;
       font-weight: Bold;
     }
 
@@ -86,3 +87,41 @@ h3{
 
 
         }
+
+          textarea {
+            height: 100px;
+            width: 200px;
+            border: 2px solid green;
+            border-radius: 4px;
+            color: white;
+            font-weight: bold;
+            background-color: orange;
+
+          }
+
+          input {height: 150px;
+          width: 200px;
+          border: 2px solid green;
+          border-radius: 4px;
+          color: Orange;
+          background-color: lightblue;
+          margin-bottom: 20px
+        }
+
+  #goto {
+    border-radius: 50%
+
+
+  }
+  #home {
+    border-radius: 10%;
+    text-align: center;
+  }
+
+ #about {
+   text-align: center;
+ }
+
+ #join {
+   border-radius: 50%;
+ }

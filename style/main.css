@@ -1,12 +1,13 @@
 
   h1{
-  font-size:40px;
+  font-size:30px;
   color: purple;
   text-align: center;
 }
 p{
   color: white;
   text-align: center;
+
 }
 .Greatness
   {color: blue;
@@ -27,8 +28,9 @@ html {background-color: #79eded}
 
 
 p.about {
-  text-indent: 50px;
+  text-indent: 24px;
   text-align: justify;
+
 
 }
 .body{
@@ -40,8 +42,86 @@ nav{
 h2{
   color: purple;
   text-align: center right;
-  
+
 }
 h3{
   color: magenta;
 }
+
+
+
+  .kent {
+    color: blue;
+
+  }
+
+
+  .container {
+  display: flex;
+  border: 2px solid black;
+  background-color: yellow;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 40px;
+}
+
+    h1{
+      text-align: center;
+      color: orange;
+      font-size: 18px;
+      font-weight: Bold;
+    }
+
+    .three {
+      flex-direction: column;
+      background: ;
+    }
+
+
+
+        p.project {
+          color: palegreen;
+          font-size: 20px;
+          font-weight: bold;
+
+
+        }
+
+          textarea {
+            height: 100px;
+            width: 200px;
+            border: 2px solid green;
+            border-radius: 4px;
+            color: white;
+            font-weight: bold;
+            background-color: orange;
+
+          }
+
+          input {height: 150px;
+          width: 200px;
+          border: 2px solid green;
+          border-radius: 4px;
+          color: Orange;
+          background-color: lightblue;
+          margin-bottom: 20px
+        }
+
+  #goto {
+    border-radius: 50%
+
+
+  }
+  #home {
+    border-radius: 10%;
+    text-align: center;
+  }
+
+ #about {
+   text-align: center;
+ }
+
+ #join {
+   border-radius: 50%;
+ }

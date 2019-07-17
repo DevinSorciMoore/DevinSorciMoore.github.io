@@ -121,6 +121,9 @@ text-align: center;
     border: 2px solid red;
   border-radius:  15px 50px 30px 5px;
 }
+#main {
+  border-radius: 50%;
+}
 
 #home {
   border-radius: 50%;

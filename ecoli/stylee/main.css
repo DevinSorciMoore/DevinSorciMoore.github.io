@@ -32,7 +32,8 @@ font-size: 28;
 
   h2{
     color: green;
-    text-align: left;
+    text-align: center;
+    font-size: 38px;
   }
 
   h3{
@@ -96,15 +97,6 @@ flex-direction: column-reverse:;
   padding-right: 50px;
 
 }
- #light {
-height: 75px;
-width: 75px;
-border: 2px solid black;
-margin: auto;
-margin-top: 20px;
-margin-bottom: 20px;
-border-radius: 75px 75px;
-}
 
 
   .box{
@@ -116,41 +108,50 @@ border-radius: 75px 75px;
 width: 80%;
 box-shadow: 75px;
 background-color: yellow;
-margin:0px auto;
+margin: 0px auto;
 text-align: center;
-
-  }
-
-
-#wave {
- height: 75px;
- width: 75px;
- border: 2px solid black;
- margin: auto;
- margin-top: 20px;
- margin-bottom: 20px;
- border-radius: 75px 75px;
- text-align: left;
-
-}
-
-  #sound{
-   height: 75px;
-   width: 75px;
-   border: 2px solid black;
-   margin: auto;
-   margin-top: 20px;
-   margin-bottom: 20px;
-   border-radius: 75px 75px;
-   text-align: right;
-
-  }
-  .ecoli {
-    border: 2px solid red;
-  border-radius:  15px 50px 30px 5px;
 
   }
 
 #group{
   border-radius: 50%
+}
+
+  .ecoli {
+    border: 2px solid red;
+  border-radius:  15px 50px 30px 5px;
+}
+
+#main {
+  border-radius: 50%;
+}
+
+#home {
+  border-radius: 50%;
+}
+
+#contact {
+  border-radius: 50%;
+}
+
+
+
+  textarea {
+    height: 100px;
+    width: 200px;
+    border: 2px solid green;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    background-color: orange;
+
+  }
+
+  input {height: 150px;
+  width: 200px;
+  border: 2px solid green;
+  border-radius: 4px;
+  color: Orange;
+  background-color: lightblue;
+  margin-bottom: 20px
 }

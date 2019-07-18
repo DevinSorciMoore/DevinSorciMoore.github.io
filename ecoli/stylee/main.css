@@ -134,7 +134,9 @@ text-align: center;
   border-radius: 50%;
 }
 
-
+#network {
+  border-radius: 50%;
+}
 
   textarea {
     height: 100px;
